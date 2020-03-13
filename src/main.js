@@ -6,3 +6,13 @@ Vue.config.productionTip = false
 new Vue({
   render: h => h(App),
 }).$mount('#app')
+
+
+// new Vue({
+//   el: '#change-color',
+//   methods: {
+//     say: function (message) {
+//       alert(message)
+//     }
+//   }
+// })
