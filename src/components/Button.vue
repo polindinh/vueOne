@@ -6,7 +6,7 @@
 
 <script>
 export default {
-    name: 'Button',
+    name: 'myButton',
     methods: {
         changeColor: function(){
             function randomColor(){

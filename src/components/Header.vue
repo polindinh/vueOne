@@ -7,18 +7,18 @@
 
 <script>
 export default {
-    name:'Header',
+    name:'myHeader',
     props:{
         msg:String
-    }
-}
+    },
+   
+};
 </script>
 
 
 <style scoped>
-    .tweet-container{
-        width: 20vw;
-        height: 15vh;
+    .header{
+        width: 100vw;
         border: solid 1px;
     }
     h3{
